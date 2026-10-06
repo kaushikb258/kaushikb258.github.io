@@ -1,0 +1,16 @@
+[
+  {
+    "slug": "pi0-fast",
+    "title": "VLA Using π₀-FAST and Residual Controller",
+    "short_title": "VLA Using π₀-FAST and Residual Controller",
+    "year": 2026,
+    "category": "Robotics · Vision-language-action models",
+    "summary": "Fine-tuning pi0-FAST on LIBERO and MimicGen, then improving closed-loop behavior with action smoothing and a small residual controller.",
+    "image": "/assets/libero-views.png",
+    "image_alt": "LIBERO simulation viewed from the external camera and the camera on the robot arm",
+    "body": "content/pi0-fast.html",
+    "code": "https://github.com/kaushikb258/pi0_fast",
+    "models": "https://huggingface.co/kaushikb258/pi0-fast-libero-mimicgen",
+    "visual_label": "π₀-FAST"
+  }
+]
